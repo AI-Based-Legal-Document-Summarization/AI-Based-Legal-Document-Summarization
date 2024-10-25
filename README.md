@@ -22,5 +22,5 @@ Legal professionals often spend significant time reading and analyzing lengthy l
         •	Efficient Legal Document Summarization: The final model will produce concise, accurate, and relevant summaries of long legal documents, helping legal professionals save time and effort in document analysis.
         •	Reduction in Manual Effort: Legal teams will be able to quickly understand case details, legal arguments, and outcomes, reducing the need for manual reading and analysis.
         •	Scalable Solution: The system will be scalable, capable of handling various legal documents across different jurisdictions and languages.
-![image](https://github.com/user-attachments/assets/8c292878-c231-44f0-8694-ad32f5ac7d75)
+
 
