@@ -1,5 +1,7 @@
 *****AI-Based-Legal-Document-Summarization***** 
 
+**Extreme Summarization (XSum) Dataset:**
+https://huggingface.com/datasets/EdinburghNLP/xsum
 
  
  
