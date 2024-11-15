@@ -17,13 +17,16 @@ Legal professionals often spend significant time reading and analyzing lengthy l
        o	Incorporate Named Entity Recognition (NER) to identify key legal entities, such as parties, legal statutes, and dates, to enrich the summaries and provide contextual relevance.
 
 **Analysis Overview:**
+
 **Data Collection:**
 The project focused on summarizing legal documents from the Indian Supreme Court, specifically leveraging the IN-Abs dataset, which contains case documents and their corresponding abstractive summaries. The data was sourced from **Liiofindia.org**, a repository of legal cases. The collection process involved:
 
 **Data Scraping:**
 **Apache Nutch and Web Scraper.io** Automated sites were used to extract case documents from the website, ensuring that both the full text of the cases and their summaries were collected.
-Data Structuring: The raw data was organized into a structured format for easy access and processing. This involved categorizing cases by relevant metadata such as case number, date, judges, and keywords.
-Data Cleaning: The collected text underwent a cleaning process to remove any irrelevant information, formatting issues, and inconsistencies, ensuring high-quality input for training.
+
+**Data Structuring:** The raw data was organized into a structured format for easy access and processing. This involved categorizing cases by relevant metadata such as case number, date, judges, and keywords.
+
+**Data Cleaning:** The collected text underwent a cleaning process to remove any irrelevant information, formatting issues, and inconsistencies, ensuring high-quality input for training.
 
 **Data Processing:**
 Once the legal data was collected, it was processed as follows:
