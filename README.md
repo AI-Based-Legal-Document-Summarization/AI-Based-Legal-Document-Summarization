@@ -1,5 +1,7 @@
 **AI-Based-Legal-Document-Summarization**
 
+**Blog post:** https://medium.com/@dharanp1/ai-based-legal-document-summarization-7b24250572aa
+
 **Problem Statement:**
 Legal professionals often spend significant time reading and analyzing lengthy legal documents, case laws, contracts, and court decisions. These documents are complex, full of technical jargon, and contain crucial information scattered throughout. Manually extracting key clauses, decisions, and legal arguments is time-consuming and prone to errors. This project seeks to address this issue by developing an AI-based solution that can automatically summarize long legal documents, focusing on the most important legal information.
 
